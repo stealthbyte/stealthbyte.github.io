@@ -16,10 +16,11 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color:       	#111;
+//$text-color:       	#111;
+$text-color:        #E4E4E4;
 $body-font-color: 	$text-color;
-$body-bg: 			#fdfdfd;
-
+//$body-bg: 			#fdfdfd;
+$body-bg: 			#111;
 
 
 /* Corporate Identity Colorpalette
@@ -72,7 +73,8 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
+//$topbar-bg-color: $body-bg;
+$topbar-bg-color: $grey-1;
 $topbar-bg: $topbar-bg-color;
 
 
