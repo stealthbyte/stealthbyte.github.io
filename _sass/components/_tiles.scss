@@ -109,6 +109,12 @@
 					background-color: _palette(highlight);
 				}
 			}
+			
+			&:active {
+				strong {
+					background-color: desaturate(darken(_palette(highlight), 15), 5);
+				}
+			}
 
 			&.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
