@@ -1,10 +1,10 @@
 # site settings
-title: Scorched
-subtitle: Carbon
+title: Stealth
+subtitle: Byte
 email: youremailaddress@gmail.com
-description: Carbon Forged By Fire
+description: ./execute 0x41 * 4000
 baseurl: '' # the subpath of your site, e.g. /blog
-url: https://scorchedcarbon.github.io # the base hostname & protocol for your site
+url: https://stealthbyte.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
