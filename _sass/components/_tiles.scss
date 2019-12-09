@@ -16,14 +16,28 @@
 		}
 
 		article {
+			strong {
+				@include vendor('transition', (
+					'background-color #{_duration(transition)} ease-in-out',
+					'color #{_duration(transition)} ease-in-out'
+				));
+				background-color: _palette(fg-bold);
+				color: _palette(bg);
+				display: inline-block;
+				line-height: 1.65em;
+				margin-right: 0.325em;
+				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
+			}
 			@include vendor('align-items', 'center');
 			@include vendor('display', 'flex');
+			/*
 			@include vendor('transition', (
 				'transform 0.25s ease',
 				'opacity 0.25s ease',
 				'filter 1s ease',
 				'-webkit-filter 1s ease'
 			));
+			*/
 			@include padding(4em, 4em);
 			background-position: center;
 			background-repeat: no-repeat;
