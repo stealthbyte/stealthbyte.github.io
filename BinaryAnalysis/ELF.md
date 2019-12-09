@@ -4,6 +4,7 @@ title: Understanding ELF Binaries
 description: Learning structures and segements of an ELF.
 image: assets/images/pic03.jpg
 nav-menu: false
+show_tile: false
 ---
 
 # ELF Layout
