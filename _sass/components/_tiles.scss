@@ -50,7 +50,7 @@
 
 				a {
 					&:hover {
-						color: inherit !important;
+						color: _palette(highlight);
 					}
 				}
 			}
@@ -109,7 +109,7 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: _palette(highlight);
+					background-color: " ";
 				}
 			}
 
