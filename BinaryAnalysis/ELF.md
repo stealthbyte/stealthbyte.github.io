@@ -3,7 +3,7 @@ layout: post
 title: Understanding ELF Binaries
 description: Learning structures and segements of an ELF.
 image: assets/images/pic03.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 # ELF Layout
