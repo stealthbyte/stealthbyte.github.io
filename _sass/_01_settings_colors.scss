@@ -16,11 +16,10 @@
 /* Basics
 ------------------------------------------------------------------- */
 
-//$text-color:       	#111;
-$text-color:        #E4E4E4;
+$text-color:       	#111;
 $body-font-color: 	$text-color;
-//$body-bg: 			#fdfdfd;
-$body-bg: 			#111;
+$body-bg: 			#fdfdfd;
+
 
 
 /* Corporate Identity Colorpalette
@@ -74,7 +73,7 @@ $grey-16: #0B0B0B;
 ------------------------------------------------------------------- */
 
 //$topbar-bg-color: $body-bg;
-$topbar-bg-color: $grey-1;
+$topbar-bg-color: $ci-1;
 $topbar-bg: $topbar-bg-color;
 
 
@@ -95,7 +94,7 @@ $topbar-link-bg-active-hover: $ci-2;
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $ci-1;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;

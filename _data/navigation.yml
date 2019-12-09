@@ -1,12 +1,12 @@
-- title: Start
+- title: Stealth Byte
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Knowledge
+  url: "/learnin-knowledge/"
   side: left
 
-- title: "Templates"
+- title: "Challenges"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Tools & Dev"
   url: "/headers/"
   side: left
   dropdown:

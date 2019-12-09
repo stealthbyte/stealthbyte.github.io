@@ -199,7 +199,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">Start</a></li>
+              <li><a  href="http://localhost:4000/">Stealth Byte</a></li>
               <li class="divider"></li>
 
             
@@ -214,7 +214,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/getting-started/">Getting Started</a></li>
+              <li><a  href="http://localhost:4000/learnin-knowledge/">Knowledge</a></li>
               <li class="divider"></li>
 
             
@@ -231,7 +231,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/design/">Templates</a>
+                <a  href="http://localhost:4000/design/">Challenges</a>
 
                   <ul class="dropdown">
                     
@@ -302,7 +302,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/headers/">Header Styles</a>
+                <a  href="http://localhost:4000/headers/">Tools &amp; Dev</a>
 
                   <ul class="dropdown">
                     
