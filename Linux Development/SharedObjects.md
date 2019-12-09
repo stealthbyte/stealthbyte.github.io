@@ -3,7 +3,7 @@ layout: post
 title: Understanding Shared Objects in C
 description: Learning structures and segements of an ELF.
 image: assets/images/pic03.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 # ELF Layout
