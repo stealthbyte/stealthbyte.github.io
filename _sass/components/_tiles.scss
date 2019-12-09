@@ -109,7 +109,7 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: " ";
+					background-color: _palette(highlight);
 				}
 			}
 
