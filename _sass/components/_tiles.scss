@@ -105,8 +105,8 @@
 			}
 
 			&:hover {
-				&:before {
-					opacity: 1;
+				strong {
+					background-color: _palette(highlight);
 				}
 			}
 
