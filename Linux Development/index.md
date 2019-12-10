@@ -1,7 +1,7 @@
 ---
 title: Linux Development
 layout: landing
-description: 'All things related to Linux Development/RE<br />Open-source tools and techniques. How to develop custom tools.'
+description: ''
 image: assets/images/linux-dev.png
 nav-menu: true
 show_tile: true
