@@ -1,7 +1,7 @@
 ---
 title: Binary Analysis
 layout: landing
-description: 'All things related to Binary Analysis/RE<br />Open-source tools and techniques. How to develop custom tools.'
+description: ''
 image: assets/images/ghidra.png
 nav-menu: true
 ---
