@@ -5,7 +5,7 @@ landing-title: 'Executing payload ....'
 description: Carbon forged by Fire
 image: assets/images/nasa.jpg
 author: null
-show_tile: false
+show_tile: true
 ---
 
 To be continued .... Maybe ...
