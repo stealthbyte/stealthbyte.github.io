@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Refined Knowledge'
+landing-title: 'Executing payload ....'
 description: Carbon forged by Fire
-image: null
+image: assets/images/nasa.jpg
 author: null
 show_tile: false
 ---
