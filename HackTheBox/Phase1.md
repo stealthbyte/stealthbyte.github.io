@@ -1,9 +1,7 @@
 ---
 title: 'Hunting for the Entrance'
 layout: page
-show_tile: false
 image: assets/images/nasa.jpg
-nav-menu: false
 ---
 AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAA
