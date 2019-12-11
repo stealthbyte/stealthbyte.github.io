@@ -1,6 +1,6 @@
 ---
 title: 'Hunting for the Entrance'
-layout: page
+layout: post
 image: assets/images/nasa.jpg
 ---
 AAAAAAAAAAAAAAAAAAAAAAAAAAAA
