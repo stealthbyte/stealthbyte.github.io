@@ -1,5 +1,5 @@
 ---
-title: 'Hacking and Slashing'
+title: 'HackTheBox'
 layout: landing
 description: ''
 image: assets/images/exploitdev.png
