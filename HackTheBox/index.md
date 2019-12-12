@@ -42,6 +42,12 @@ show_tile: true
 	</section>
 	<!------------------------------------------------------------------------------------------------------>
   <section>
+		pre code {
+			  background-color: #eee;
+			  border: 1px solid #999;
+			  display: block;
+			  padding: 20px;
+			  }
 		<a href="Phase2.html" class="image">
 			<img src="../assets/images/nasa.jpg" alt="" data-position="top center" />
 		</a>
@@ -49,9 +55,11 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Weaponize payload for entry</h3>
-					<code>
-					searchsploit -x <vulnerable service>
-					<code/>
+					    <pre>
+						<code>
+						searchsploit -x <vulnerable service>
+						</code>
+					    </pre>
 				</header>
 				<p>Map out enumeration results to actionable entry methods. Modification and adaptation of payload is most likely required.</p>
 				<ul class="actions">
