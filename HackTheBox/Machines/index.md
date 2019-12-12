@@ -5,7 +5,7 @@ description: 'HackTheBox Walkthroughs'
 title: 'HackTheBox Notes'
 ---
 
-<a href="#"</a> ## HackTheBox - DevOops
+[https://stealthbyte.github.io](# LINK)
 <h4>Ordered</h4>
 <ol>
   <li><a href="DevOops">HackTheBox - DevOops</a></li>
