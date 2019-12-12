@@ -2,6 +2,7 @@
 title: 'Hunting for the Entrance'
 layout: post
 image: assets/images/nasa.jpg
+show_tile: false
 ---
 AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAA
