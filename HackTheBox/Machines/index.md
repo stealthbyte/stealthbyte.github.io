@@ -6,16 +6,9 @@ title: 'HackTheBox Notes'
 ---
 
 <h3><a href="DevOops">HackTheBox - DevOops</a></h3>
-<h4>Ordered</h4>
-<ol>
-  <li><a href="DevOops">HackTheBox - DevOops</a></li>
-  <li>Etiam vel lorem sed viverra.</li>
-  <li>Felis dolore viverra.</li>
-  <li>Dolor etiam magna etiam.</li>
-  <li>Etiam vel lorem sed viverra.</li>
-  <li>Felis dolore viverra.</li>
-</ol>
-
+```
+Testing this out
+```
 <h4>Icons</h4>
 <ul class="icons">
   <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
