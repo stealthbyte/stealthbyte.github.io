@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 description: ''
 image: assets/images/nasa.jpg
 show_tile: false
