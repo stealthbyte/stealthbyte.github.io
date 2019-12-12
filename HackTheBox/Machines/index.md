@@ -1,12 +1,12 @@
 ---
-layout: landing
+layout: post
 image: assets/images/nasa.jpg
 description: 'HackTheBox Walkthroughs'
 ---
 
 <h4>Ordered</h4>
 <ol>
-  <li><a href="DevOops">HackTheBox - DevOops</li>
+  <li><a href="DevOops">HackTheBox - DevOops</a></li>
   <li>Etiam vel lorem sed viverra.</li>
   <li>Felis dolore viverra.</li>
   <li>Dolor etiam magna etiam.</li>
