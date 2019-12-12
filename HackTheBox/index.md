@@ -49,9 +49,9 @@ show_tile: true
 			<div class="inner">
 				<header class="major">
 					<h3>Weaponize payload for entry</h3>
-					```
+					<code>
 					searchsploit -x <vulnerable service>
-					```
+					<code/>
 				</header>
 				<p>Map out enumeration results to actionable entry methods. Modification and adaptation of payload is most likely required.</p>
 				<ul class="actions">
