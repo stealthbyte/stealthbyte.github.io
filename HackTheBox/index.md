@@ -81,11 +81,11 @@ show_tile: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Machine Walkthroughs</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>All notes and information on all pwned HTB machines.</p>
 		<ul class="actions">
-			<li><a href=".generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://stealthbyte.github.io/all_posts.html" class="button next">NOTES</a></li>
 		</ul>
 	</div>
 </section>
