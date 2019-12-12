@@ -1,4 +1,5 @@
 ---
+title: 'Weaponize payload for entry'
 layout: post
 description: ''
 image: assets/images/nasa.jpg
