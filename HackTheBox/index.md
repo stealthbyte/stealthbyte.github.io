@@ -33,7 +33,7 @@ show_tile: true
 				<header class="major">
 					<h3>Hunting for the Entrance</h3>
 				</header>
-				<p>Understanding where to start and how to push through the rabbit holes.</p>
+				<p>Understanding where to start and how to push through the rabbit holes of enumeration.</p>
 				<ul class="actions">
 					<li><a href="Phase1.html" class="button">Learn more</a></li>
 				</ul>
@@ -42,17 +42,20 @@ show_tile: true
 	</section>
 	<!------------------------------------------------------------------------------------------------------>
   <section>
-		<a href="generic.html" class="image">
-			<img src="../assets/images/pic09.jpg" alt="" data-position="top center" />
+		<a href="Phase2.html" class="image">
+			<img src="../assets/images/nasa.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Understanding Basics of PE Binary</h3>
+					<h3>Weaponize payload for entry</h3>
+					```
+					searchsploit -x <vulnerable service>
+					```
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Map out enumeration results to actionable entry methods. Modification and adaptation of payload is most likely required.</p>
 				<ul class="actions">
-					<li><a href="_posts/ELF-Basics.md" class="button">Learn more</a></li>
+					<li><a href="Phase2.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
