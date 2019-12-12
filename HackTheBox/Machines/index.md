@@ -5,9 +5,14 @@ description: 'HackTheBox Walkthroughs'
 title: 'HackTheBox Notes'
 ---
 
-<h3><a href="DevOops">HackTheBox - DevOops</a></h3>
+<h3><a href="Haystack.html">HackTheBox - Haystack</a></h3>
 ```
-Testing this out
+First Blood
+```
+
+<h3><a href="DevOops.html">HackTheBox - Heist</a></h3>
+```
+Windows: Totally Guessing
 ```
 <h4>Icons</h4>
 <ul class="icons">
