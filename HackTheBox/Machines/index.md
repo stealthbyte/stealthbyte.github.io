@@ -2,6 +2,7 @@
 layout: post
 image: assets/images/nasa.jpg
 description: 'HackTheBox Walkthroughs'
+title: 'HackTheBox Notes
 ---
 
 <h4>Ordered</h4>
