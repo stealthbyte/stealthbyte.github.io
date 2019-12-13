@@ -10,18 +10,19 @@ show_tile: false
 <div style="text-align:center"> 
     <h2> <a href="HayStack.html">HackTheBox - Haystack </a> </h2> 
 
-    ```
+    <code>
 
     First Blood
 
-    ```
+    </code>
+    
     <h2><a href="DevOops.html">HackTheBox - Heist</a></h2>
 
-    ```
+    <code>
     
     Windows: Totally Guessing
-    
-    ```
+
+    </code>
 
 </div>
 
