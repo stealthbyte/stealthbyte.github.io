@@ -4,7 +4,7 @@ image: assets/images/haystack.jpg
 description: 'HackTheBox Walkthroughs'
 title: 'HayStack'
 show_tile: true
-tags: [htb]
+tags: htb
 ---
 # Enumeration
 
