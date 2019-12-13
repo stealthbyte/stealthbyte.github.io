@@ -2,7 +2,7 @@
 layout: landing
 landing-title: 'Rise of the Machines'
 image: assets/images/nasa.jpg
-description: 'walkthroughs'
+description: 'Hacking and stuff..'
 title: 'Notes'
 show_tile: false
 ---
