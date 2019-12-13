@@ -7,29 +7,20 @@ title: 'Notes'
 show_tile: false
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
+<p align="center">
+	<h2><a href="HayStack.html">HackTheBox - Haystack</a></h2>
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2><a href="HayStack.html">HackTheBox - Haystack</a></h2>
-			
-			```
-			First Blood
-			```
-			
-			<h2><a href="DevOops.html">HackTheBox - Heist</a></h2>
-			
-			```
-			Windows: Totally Guessing
-			```
-			
-	</div>
-</section>
+	```
+	First Blood
+	```
 
-</div>
+	<h2><a href="DevOops.html">HackTheBox - Heist</a></h2>
+
+	```
+	Windows: Totally Guessing
+	```
+</p>
+
 <h4>Icons</h4>
 <ul class="icons">
   <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
