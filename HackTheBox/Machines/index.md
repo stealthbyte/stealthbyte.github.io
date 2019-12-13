@@ -1,5 +1,6 @@
 ---
 layout: home
+landing-tile: 'Rise of the Machines'
 image: assets/images/nasa.jpg
 description: 'walkthroughs'
 title: 'Notes'
