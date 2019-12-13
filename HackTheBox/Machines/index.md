@@ -1,5 +1,5 @@
 ---
-layout: HTB
+layout: landing
 landing-title: 'Rise of the Machines'
 image: assets/images/nasa.jpg
 description: 'walkthroughs'
