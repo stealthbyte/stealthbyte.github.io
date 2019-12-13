@@ -6,7 +6,7 @@ title: 'Notes'
 show_tile: true
 ---
 
-<h3><a href="Haystack.html">HackTheBox - Haystack</a></h3>
+<h3><a href="HayStack.html">HackTheBox - Haystack</a></h3>
 ```
 First Blood
 ```
