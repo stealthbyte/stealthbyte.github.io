@@ -14,14 +14,14 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			  <h3><a href="HayStack.html">HackTheBox - Haystack</a></h3>
-        ```
-        First Blood
-        ```
-        <h3><a href="DevOops.html">HackTheBox - Heist</a></h3>
-        ```
-        Windows: Totally Guessing
-        ```
+			<h3><a href="HayStack.html">HackTheBox - Haystack</a></h3>
+			```
+			First Blood
+			```
+			<h3><a href="DevOops.html">HackTheBox - Heist</a></h3>
+			```
+			Windows: Totally Guessing
+			```
 	</div>
 </section>
 
