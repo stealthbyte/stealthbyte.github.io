@@ -6,7 +6,7 @@
 -->
 <html>
 
-<head>
+    <head>
 	<title>Stealth</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -17,13 +17,13 @@
 </head>
 
 
-<body>
+    <body>
 
-    <!-- Wrapper -->
+        <!-- Wrapper -->
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header">
+<header id="header" class="alt style2">
 	<a href="http://localhost:4000/" class="logo"><strong>Stealth</strong> <span>Byte</span></a>
 	<nav>
 		<a href="#menu">Menu</a>
@@ -109,66 +109,112 @@
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
 </nav>
- 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
+
+
+        <section id="banner" class=" ">
+            <div class="inner">
+                <span class="image">
+                    <img src="/assets/images/exploitdev.png" alt="">
+                </span>
+                <header class="major">
+
+                    <h1>HackTheBox</h1>
+
+                </header>
+                <div class="content">
+
+                    This will be a generic hacking/CTF blog  
+
+                </div>
+            </div>
+        </section>
+
+    <!-- Main -->
+<div id="main">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Understanding Shared Objects in C</h1>
+			<h2>Beginner's journey into hacking</h2>
 		</header>
-		<span class="image main"><img src="/assets/images/pic03.jpg" alt="" /></span>
-		<p><h1 id="elf-layout">ELF Layout</h1>
+		<p>Starting with HackTheBox.....</p>
+	</div>
+</section>
 
-<pre><code>Executable Header
---
---
-Program Header
---
---
-Section
---
---
-Section Headers
-</code></pre>
+<!-- Two -->
+<section id="two" class="spotlights">
+	<!------------------------------------------------------------------------------------------------------
+    # Add new sections/articles within these blocks. Copy/paste and modify. Cheers. ------->
+  
+  <section>
+		<a href="Phase1.html" class="image">
+			<img src="../assets/images/nasa.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Hunting for the Entrance</h3>
+				</header>
+				<p>Understanding where to start and how to push through the rabbit holes of enumeration.</p>
+				<ul class="actions">
+					<li><a href="Phase1.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!------------------------------------------------------------------------------------------------------>
+  <section>
+		<a href="Phase2.html" class="image">
+			<img src="../assets/images/nasa.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Weaponize payload for entry</h3>
+				</header>
+				<p>Map out enumeration results to actionable entry methods. Modification and adaptation of payload is most likely required.</p>
+				<ul class="actions">
+					<li><a href="Phase2.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!------------------------------------------------------------------------------------------------------>
+  <section>
+		<a href="generic.html" class="image">
+			<img src="../assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sed nunc ligula</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+  <!------------------------------------------------------------------------------------------------------>
+</section>
 
-<hr />
-<h2 id="executable-header">Executable Header</h2>
-
-<p>For more information including type definitions like ELF64_Ehdr:
-<code>/usr/include/elf.h</code><br />
-Some helpful typedefs explained:<br />
-<code>Elf64_Half = uint16_t</code><br />
-<code>Elf65_Word = uint32_t</code></p>
-<pre><code>typedef struct
-{
-  unsigned char	e_ident[EI_NIDENT];	/* Magic number and other info */
-  Elf64_Half	e_type;			/* Object file type */
-  Elf64_Half	e_machine;		/* Architecture */
-  Elf64_Word	e_version;		/* Object file version */
-  Elf64_Addr	e_entry;		/* Entry point virtual address */
-  Elf64_Off	e_phoff;		/* Program header table file offset */
-  Elf64_Off	e_shoff;		/* Section header table file offset */
-  Elf64_Word	e_flags;		/* Processor-specific flags */
-  Elf64_Half	e_ehsize;		/* ELF header size in bytes */
-  Elf64_Half	e_phentsize;		/* Program header table entry size */
-  Elf64_Half	e_phnum;		/* Program header table entry count */
-  Elf64_Half	e_shentsize;		/* Section header table entry size */
-  Elf64_Half	e_shnum;		/* Section header table entry count */
-  Elf64_Half	e_shstrndx;		/* Section header string table index */
-} Elf64_Ehdr;
-</code></pre>
-
-<p>Credits: Practical Binary Analysis (No Starch Press)</p>
-</p>
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Machine Walkthroughs</h2>
+		</header>
+		<p>All notes and information on all pwned HTB machines.</p>
+		<ul class="actions">
+			<li><a href="https://stealthbyte.github.io/all_posts.html" class="button next">NOTES</a></li>
+		</ul>
 	</div>
 </section>
 
 </div>
+
 
     <!-- Contact -->
 <section id="contact">
