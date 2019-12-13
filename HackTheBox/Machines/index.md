@@ -1,8 +1,9 @@
 ---
 layout: post
 image: assets/images/nasa.jpg
-description: 'HackTheBox Walkthroughs'
-title: 'HackTheBox Notes'
+description: 'walkthroughs'
+title: 'Notes'
+show_tile: true
 ---
 
 <h3><a href="Haystack.html">HackTheBox - Haystack</a></h3>

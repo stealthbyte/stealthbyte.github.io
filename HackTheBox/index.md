@@ -85,7 +85,7 @@ show_tile: true
 		</header>
 		<p>All notes and information on all pwned HTB machines.</p>
 		<ul class="actions">
-			<li><a href="https://stealthbyte.github.io/all_posts.html" class="button next">NOTES</a></li>
+			<li><a href="Machines/index.html" class="button next">NOTES</a></li>
 		</ul>
 	</div>
 </section>
