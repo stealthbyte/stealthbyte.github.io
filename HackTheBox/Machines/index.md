@@ -3,7 +3,7 @@ layout: home
 image: assets/images/nasa.jpg
 description: 'walkthroughs'
 title: 'Notes'
-show_tile: true
+show_tile: false
 ---
 
 <h3><a href="HayStack.html">HackTheBox - Haystack</a></h3>
