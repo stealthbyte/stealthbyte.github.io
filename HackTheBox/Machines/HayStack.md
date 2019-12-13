@@ -1,10 +1,11 @@
 ---
 layout: post
-image: assets/images/nasa.jpg
+image: assets/images/haystack.jpg
 description: 'HackTheBox Walkthroughs'
-title: 'HackTheBox Notes'
+title: 'HayStack'
+show_tile: true
 ---
-# HayStack
+# Enumeration
 
 ```
 {
