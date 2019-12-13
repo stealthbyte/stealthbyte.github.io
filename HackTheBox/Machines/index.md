@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 image: assets/images/nasa.jpg
 description: 'walkthroughs'
 title: 'Notes'
