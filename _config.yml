@@ -15,7 +15,7 @@ phone: (716) 555-5555
 
 # homepage tiles -- increment tiles-count every time you add a new post
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 7
+tiles-count: 4
 
 
 # social settings
