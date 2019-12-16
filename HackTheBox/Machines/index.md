@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: HTB
 landing-title: 'Rise of the Machines'
 image: assets/images/nasa.jpg
 description: 'Hacking and stuff..'
