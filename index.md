@@ -9,7 +9,6 @@ show_tile: false
 ---
 
 <div>
-</section>
 <!-- Three -->
 <section id="two">
 	<div class="inner">
