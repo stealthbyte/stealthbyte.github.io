@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Executing payload ....'
+landing-title: 'Rise of the Machines . . .'
 description: Carbon forged by Fire
 image: assets/images/nasa.jpg
 author: null
