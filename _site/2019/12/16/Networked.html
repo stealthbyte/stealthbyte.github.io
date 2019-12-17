@@ -14,6 +14,16 @@
 	<link rel="stylesheet" href="/assets/css/main.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+	
+  	  
+
+
+
+
+
+
+	
+
 </head>
 
 
@@ -80,7 +90,6 @@
 	</ul>
 	<ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
 </nav>
  
@@ -93,24 +102,39 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Ipsum</h1>
+			<h1>Networked</h1>
 		</header>
-		<span class="image main"><img src="/assets/images/pic04.jpg" alt="" /></span>
-		<p><p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+		<span class="image main"><img src="/assets/images/networked.jpg" alt="" /></span>
+		<p><h1 id="summary">Summary</h1>
+<ul>
+  <li>Found x running on x</li>
+  <li>Leveraged this to get RCE on machine</li>
+  <li>Escalated using X</li>
+  <li>Owned</li>
+</ul>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+<h1 id="portscan">PortScan</h1>
+<pre><code>
+nmap -sC -sV -p- &lt;Target IP&gt;
 
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+-- Ports Found!
+
+</code></pre>
+
+<h1 id="port-80-exposed-running">Port 80 Exposed Running</h1>
+<pre><code>Snippet of Page
+</code></pre>
+
+<h3 id="ran-gobuster-and-found-interesting-stuff">Ran gobuster and found interesting stuff.</h3>
+<pre><code># Need to download this first
+git clone https://github.com/danielmiessler/SecLists.git
+
+# From snowscan.io
+gobuster -w raft-large-words-lowercase.txt -t 25 -u http://&lt;target&gt; -s 200,204,301,302,307,401
+</code></pre>
+
+<h3 id="looking-for-foothold-with-interesting-folder">Looking for foothold with <code>interesting folder/</code></h3>
+
 </p>
 	</div>
 </section>

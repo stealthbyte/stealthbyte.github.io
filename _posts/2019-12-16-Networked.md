@@ -2,7 +2,7 @@
 layout: post
 title: Networked
 description: HackTheBox - Easy Linux Machine
-image: assets/images/pic02.jpg
+image: assets/images/networked.jpg
 ---
 
 # Summary 
