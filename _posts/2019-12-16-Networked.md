@@ -5,13 +5,13 @@ description: HackTheBox - Easy Linux Machine
 image: assets/images/networked.jpg
 ---
 
-# Summary 
+## Summary 
 - Found x running on x
 - Leveraged this to get RCE on machine
 - Escalated using X
 - Owned
 
-# PortScan
+## PortScan
 ```
 
 nmap -sC -sV -p- <Target IP>
@@ -20,7 +20,7 @@ nmap -sC -sV -p- <Target IP>
 
 ```
 
-# Port 80 Exposed Running 
+## Port 80 Exposed Running 
 ```
 Snippet of Page
 ```
